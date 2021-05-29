@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/firstreactwebsite/static/css/main.75416f79.chunk.css",
+    "main.js": "/firstreactwebsite/static/js/main.85bf4337.chunk.js",
+    "main.js.map": "/firstreactwebsite/static/js/main.85bf4337.chunk.js.map",
+    "runtime-main.js": "/firstreactwebsite/static/js/runtime-main.381fdf13.js",
+    "runtime-main.js.map": "/firstreactwebsite/static/js/runtime-main.381fdf13.js.map",
+    "static/css/2.61b4cb56.chunk.css": "/firstreactwebsite/static/css/2.61b4cb56.chunk.css",
+    "static/js/2.5fb9a5db.chunk.js": "/firstreactwebsite/static/js/2.5fb9a5db.chunk.js",
+    "static/js/2.5fb9a5db.chunk.js.map": "/firstreactwebsite/static/js/2.5fb9a5db.chunk.js.map",
+    "static/js/3.f9ae3cd3.chunk.js": "/firstreactwebsite/static/js/3.f9ae3cd3.chunk.js",
+    "static/js/3.f9ae3cd3.chunk.js.map": "/firstreactwebsite/static/js/3.f9ae3cd3.chunk.js.map",
+    "index.html": "/firstreactwebsite/index.html",
+    "static/css/2.61b4cb56.chunk.css.map": "/firstreactwebsite/static/css/2.61b4cb56.chunk.css.map",
+    "static/css/main.75416f79.chunk.css.map": "/firstreactwebsite/static/css/main.75416f79.chunk.css.map",
+    "static/js/2.5fb9a5db.chunk.js.LICENSE.txt": "/firstreactwebsite/static/js/2.5fb9a5db.chunk.js.LICENSE.txt",
+    "static/media/facebook.f92cfc95.jpg": "/firstreactwebsite/static/media/facebook.f92cfc95.jpg",
+    "static/media/logo.6ce24c58.svg": "/firstreactwebsite/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.381fdf13.js",
+    "static/css/2.61b4cb56.chunk.css",
+    "static/js/2.5fb9a5db.chunk.js",
+    "static/css/main.75416f79.chunk.css",
+    "static/js/main.85bf4337.chunk.js"
+  ]
+}
